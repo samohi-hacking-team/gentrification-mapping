@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("please work")),
+      appBar: AppBar(title: Text("Gen-Map")),
       body: GoogleMap(
         onMapCreated: _onMapCreated, 
         initialCameraPosition: CameraPosition(
