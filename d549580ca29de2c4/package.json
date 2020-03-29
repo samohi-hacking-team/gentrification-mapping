@@ -1,0 +1,14 @@
+{
+  "name": "d549580ca29de2c4",
+  "main": "d549580ca29de2c4@207.js",
+  "version": "207.0.0",
+  "homepage": "https://observablehq.com/d/d549580ca29de2c4",
+  "author": {
+    "name": "Benjamin Swerdlow",
+    "url": "https://observablehq.com/@theswerd"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
