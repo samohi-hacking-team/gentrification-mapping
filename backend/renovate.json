@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "schedule:monthly",
+    "group:linters",
+    "group:jsUnitTest",
+    "docker:enableMajor",
+    ":automergeMinor",
+    ":timezone(Australia/Melbourne)"
+  ],
+  "packageRules": [
+    {
+      "packagePatterns": ["^eslint"],
+      "groupName": "eslint",
+      "schedule": ["on the first day of the month"]
+    }
+  ],
+  "pinDigests": false
+}
