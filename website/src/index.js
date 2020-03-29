@@ -2,8 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import * as d3 from 'd3';
+import * as topojson from "topojson-client";
 import * as serviceWorker from './serviceWorker';
-
 ReactDOM.render(
   <React.StrictMode>
     <App />
