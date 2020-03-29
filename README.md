@@ -1,4 +1,21 @@
 <h1  align="center">Gentrification Mapping</h1>
+<div text-align="center">
+<img src="https://img.shields.io/badge/-Facebook-purple" hspace="2" alt="">
+<img src="https://img.shields.io/badge/-GraphQL-purple" hspace="2" alt="">
+<img src="https://img.shields.io/badge/-Jest-purple" hspace="2" alt="">
+<img src="https://img.shields.io/badge/-ReactJS-purple" hspace="2" alt="">
+<img src="https://img.shields.io/badge/-Google Cloud-blue" hspace="2" alt="">
+<img src="https://img.shields.io/badge/-Big Query-blue" hspace="2" alt="">
+<img src="https://img.shields.io/badge/-Cloud Functions-blue" hspace="2" alt="">
+<img src="https://img.shields.io/badge/-App Engine-blue" hspace="2" alt="">
+<img src="https://img.shields.io/badge/-Cloud Storage-blue" hspace="2" alt="">
+<img src="https://img.shields.io/badge/-Other-red" hspace="2" alt="">
+<img src="https://img.shields.io/badge/-JavaScript-red" hspace="2" alt="">
+<img src="https://img.shields.io/badge/-Flutter-red" hspace="2" alt="">
+<img src="https://img.shields.io/badge/-Yarn-red" hspace="2" alt="">
+
+</div>
+
 <img src="https://raw.githubusercontent.com/SAMOHACKS/gentrification-mapping/master/assets/banner3-01%20(1).png" alt="" width="100%">
 
 <h3>General Information</h3>
